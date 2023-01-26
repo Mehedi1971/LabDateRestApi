@@ -1,0 +1,36 @@
+{
+  "result": [
+    {
+      "create_date": "2023-01-14",
+      "age": "82 Y 0 M 11 D",
+      "lines": [
+        {
+          "product_name": "Widal Test (Panel)"
+        }
+      ],
+      "patient_name": "Abdul",
+      "invoice_number": "INV/2023/0019",
+      "patient_identifier": "BDH334527",
+      "sex": "M"
+    },
+    {
+      "create_date": "2023-01-15",
+      "age": "54 Y 6 M 19 D",
+      "lines": [
+        {
+          "product_name": "Widal Test (Panel)"
+        },
+        {
+          "product_name": "Covid-19 (RT-PCR) (Test)"
+        },
+        {
+          "product_name": "CBC (Panel)"
+        }
+      ],
+      "patient_name": "Abdul Khalek",
+      "invoice_number": "INV/2023/0020",
+      "patient_identifier": "BDH435176",
+      "sex": "M"
+    }
+  ]
+}
