@@ -11,6 +11,7 @@ import java.util.Date;
 import java.util.List;
 
 import lombok.AllArgsConstructor;
+import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
 import org.springframework.data.annotation.LastModifiedDate;
@@ -22,7 +23,7 @@ import org.springframework.data.annotation.LastModifiedDate;
 @ToString
 @AllArgsConstructor
 @NoArgsConstructor
-
+@Data
 public class Lab {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
